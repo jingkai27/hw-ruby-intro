@@ -15,7 +15,6 @@ def sum_to_n? arr, n
 end
 
 # Part 2
-
 def hello(name)
   # YOUR CODE HERE
 end
